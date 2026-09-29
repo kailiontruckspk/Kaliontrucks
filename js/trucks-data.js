@@ -16,7 +16,7 @@ const TRUCKS = [
     name: "KAILION Tianjin Prime Mover",
     category: "Prime Mover",
     image: "assets/img/truck-tianjin.jpg",
-    price: "PKR 1120 Million",
+    price: "Get in Touch",
     specs: [
       ["Brand/Model", " KAILION Tianjin"],
       ["Cab / Drive", "Right-Hand Drive (RHD)"],
